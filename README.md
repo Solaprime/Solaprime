@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solaprime&label=Profile%20views&color=0e75b6&style=flat" alt="solaprime" /> </p>
 
-
 - 🌱 I’m currently learning **Blockchain, Smart Contract, Game Development**
 
-- 💬 Ask me about **.NET, Blockchain, Unreal Engine**
+- 💬 Ask me about **.NET, Blockchain, Game Development**
 
 - 📫 How to reach me **adebanjo.oluwasola.37@gmail.com**
 
@@ -20,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solaprime&show_icons=true&locale=en&layout=compact" alt="solaprime" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solaprime&show_icons=true&locale=en" alt="solaprime" /></p>
+
